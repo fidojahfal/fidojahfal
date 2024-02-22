@@ -1,4 +1,8 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Fido Jahfal Prayoga**.<br>
+
+Saya seorang **Mahasiswa** di Politeknik Negeri Semarang.<br>
 
 <!--
 **fidojahfal/fidojahfal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
